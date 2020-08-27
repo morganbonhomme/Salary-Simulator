@@ -1,0 +1,1562 @@
+[
+{
+      "name": "United States",
+      "area": "Connecticut",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Maine",
+      "factor": 65
+   },
+   {
+      "name": "United States",
+      "area": "Portland, Maine",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Massachusetts",
+      "factor": 73.6
+   },
+   {
+      "name": "United States",
+      "area": "Boston, Massachusetts",
+      "factor": 85
+   },
+   {
+      "name": "United States",
+      "area": "New Hampshire",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Providence, Rhode Island",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Vermont",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "New Jersey",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, New York",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "NYC, New York",
+      "factor": 90
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Pennsylvania",
+      "factor": 68.9
+   },
+   {
+      "name": "United States",
+      "area": "Pittsburgh, Pennsylvania",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Philadelphia, Pennsylvania",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Indiana",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Indianapolis, Indiana",
+      "factor": 76
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Michigan",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Detroit, Michigan",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Ohio",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Columbus, Ohio",
+      "factor": 68.9
+   },
+   {
+      "name": "United States",
+      "area": "Cleveland, Ohio",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Cincinnati, Ohio",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Wisconsin",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Milwaukee, Wisconsin",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Chicago, Illinois",
+      "factor": 80
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Illinois",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Iowa",
+      "factor": 68.9
+   },
+   {
+      "name": "United States",
+      "area": "Des Moines, Iowa",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Nebraska",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Lincoln/Omaha, Nebraska",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Kansas",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "North Dakota",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Minnesota",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Minneapolis, Minnesota",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "South Dakota",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Missouri",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Kansas City, Missouri / Kansas",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "St. Louis, Missouri",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "Delaware",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Washington DC",
+      "factor": 85
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Florida",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Fort Myers, Florida",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Miami/Fort Lauderdale, Florida",
+      "factor": 70.8
+   },
+   {
+      "name": "United States",
+      "area": "Jacksonville, Florida",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Orlando/Tampa, Florida",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Georgia",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Atlanta, Georgia",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Maryland",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, North Carolina",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Charlotte, North Carolina",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Raleigh, North Carolina",
+      "factor": 74.4
+   },
+   {
+      "name": "United States",
+      "area": "South Carolina",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Virginia",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Richmond, Virginia",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "West Virginia",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Alabama",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Birmingham, Alabama",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Kentucky",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Louisville/Lexington, Kentucky",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Mississippi",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Jackson, Mississippi",
+      "factor": 65
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Tennessee",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Nashville, Tennessee",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Arkansas",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Fayetteville, Arkansas",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Louisiana",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "New Orleans, Louisiana",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Oklahoma",
+      "factor": 65
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Texas",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Dallas, Texas",
+      "factor": 80
+   },
+   {
+      "name": "United States",
+      "area": "Houston, Texas",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "Austin, Texas",
+      "factor": 80
+   },
+   {
+      "name": "United States",
+      "area": "San Antonio, Texas",
+      "factor": 74.4
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Arizona",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Phoenix, Arizona",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Colorado",
+      "factor": 68.9
+   },
+   {
+      "name": "United States",
+      "area": "Denver, Colorado",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Idaho",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Boise, Idaho",
+      "factor": 65
+   },
+   {
+      "name": "United States",
+      "area": "New Mexico",
+      "factor": 65
+   },
+   {
+      "name": "United States",
+      "area": "Montana",
+      "factor": 65
+   },
+   {
+      "name": "United States",
+      "area": "Salt Lake City, Utah",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Utah",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Nevada",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Las Vegas, Nevada",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Reno, Nevada",
+      "factor": 65
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Wyoming",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Jackson, Wyoming",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Cheyenne, Wyoming",
+      "factor": 65
+   },
+   {
+      "name": "United States",
+      "area": "Alaska",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, California",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "Sacramento, California",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "San Francisco, California",
+      "factor": 100
+   },
+   {
+      "name": "United States",
+      "area": "Santa Barbara, California",
+      "factor": 85
+   },
+   {
+      "name": "United States",
+      "area": "Los Angeles, California",
+      "factor": 85
+   },
+   {
+      "name": "United States",
+      "area": "Santa Cruz, California",
+      "factor": 85
+   },
+   {
+      "name": "United States",
+      "area": "San Diego, California",
+      "factor": 80
+   },
+   {
+      "name": "United States",
+      "area": "Hawaii",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Oregon",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Portland, Oregon",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "Bend, Oregon",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Eugene, Oregon",
+      "factor": 70
+   },
+   {
+      "name": "United States",
+      "area": "Everywhere else, Washington",
+      "factor": 63.3
+   },
+   {
+      "name": "United States",
+      "area": "Seattle, Washington",
+      "factor": 90
+   },
+   {
+      "name": "United States",
+      "area": "Bellingham, Washington",
+      "factor": 75
+   },
+   {
+      "name": "United States",
+      "area": "Spokane, Washington",
+      "factor": 65
+   },
+   {
+      "name": "Canada",
+      "area": "Calgary, Alberta",
+      "factor": 55
+   },
+   {
+      "name": "Canada",
+      "area": "Edmonton, Alberta",
+      "factor": 55
+   },
+   {
+      "name": "Canada",
+      "area": "Everywhere else, Alberta",
+      "factor": 50.3
+   },
+   {
+      "name": "Canada",
+      "area": "Vancouver, British Columbia",
+      "factor": 60
+   },
+   {
+      "name": "Canada",
+      "area": "Victoria, British Columbia",
+      "factor": 60
+   },
+   {
+      "name": "Canada",
+      "area": "Everywhere else, British Columbia",
+      "factor": 51
+   },
+   {
+      "name": "Canada",
+      "area": "Everywhere else, Manitoba",
+      "factor": 45
+   },
+   {
+      "name": "Canada",
+      "area": "Winnipeg, Manitoba",
+      "factor": 55
+   },
+   {
+      "name": "Canada",
+      "area": "New Brunswick",
+      "factor": 52.5
+   },
+   {
+      "name": "Canada",
+      "area": "Newfoundland and Labrador",
+      "factor": 52.5
+   },
+   {
+      "name": "Canada",
+      "area": "Northwest Territories",
+      "factor": 41.1
+   },
+   {
+      "name": "Canada",
+      "area": "Nova Scotia",
+      "factor": 50
+   },
+   {
+      "name": "Canada",
+      "area": "Nunavut",
+      "factor": 41.1
+   },
+   {
+      "name": "Canada",
+      "area": "Toronto, Ontario",
+      "factor": 60
+   },
+   {
+      "name": "Canada",
+      "area": "Ottawa, Ontario",
+      "factor": 55
+   },
+   {
+      "name": "Canada",
+      "area": "Everywhere else, Ontario",
+      "factor": 50
+   },
+   {
+      "name": "Canada",
+      "area": "Prince Edward Island",
+      "factor": 52.5
+   },
+   {
+      "name": "Canada",
+      "area": "Everywhere else, Quebec",
+      "factor": 50
+   },
+   {
+      "name": "Canada",
+      "area": "Montreal, Quebec",
+      "factor": 55
+   },
+   {
+      "name": "Canada",
+      "area": "Quebec City, Quebec",
+      "factor": 55
+   },
+   {
+      "name": "Canada",
+      "area": "Everywhere else, Saskatchewan",
+      "factor": 45.8
+   },
+   {
+      "name": "Canada",
+      "area": "Regina, Saskatchewan",
+      "factor": 50
+   },
+   {
+      "name": "Canada",
+      "area": "Saskatoon, Saskatchewan",
+      "factor": 55
+   },
+   {
+      "name": "Canada",
+      "area": "Yukon",
+      "factor": 41.1
+   },
+   {
+      "name": "Bermuda",
+      "area": "All",
+      "factor": 95.4
+   },
+   {
+      "name": "Bahamas",
+      "area": "All",
+      "factor": 50.8
+   },
+   {
+      "name": "Dominican Republic",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Jamaica",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Puerto Rico",
+      "area": "All",
+      "factor": 60
+   },
+   {
+      "name": "Cuba",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Trinidad and Tobago",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "El Salvador",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Guatemala",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Mexico",
+      "area": "All",
+      "factor": 35
+   },
+   {
+      "name": "Costa Rica",
+      "area": "All",
+      "factor": 41.8
+   },
+   {
+      "name": "Nicaragua",
+      "area": "All",
+      "factor": 41.8
+   },
+   {
+      "name": "Panama",
+      "area": "All",
+      "factor": 51.3
+   },
+   {
+      "name": "Suriname",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Venezuela",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Paraguay",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Colombia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Ecuador",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Argentina",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Bolivia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Chile",
+      "area": "All",
+      "factor": 40
+   },
+   {
+      "name": "Peru",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Uruguay",
+      "area": "All",
+      "factor": 41.2
+   },
+   {
+      "name": "Brazil",
+      "area": "Sao Paulo",
+      "factor": 36
+   },
+   {
+      "name": "Brazil",
+      "area": "Rio de Janeiro",
+      "factor": 40
+   },
+   {
+      "name": "Brazil",
+      "area": "Everywhere else",
+      "factor": 35
+   },
+   {
+      "name": "Algeria",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Egypt",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Libya",
+      "area": "All",
+      "factor": 41.3
+   },
+   {
+      "name": "Morocco",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Tunisia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Uganda",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Rwanda",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Zimbabwe",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Kenya",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Ethiopia",
+      "area": "All",
+      "factor": 45.9
+   },
+   {
+      "name": "Tanzania",
+      "area": "All",
+      "factor": 44.1
+   },
+   {
+      "name": "Namibia",
+      "area": "All",
+      "factor": 41.7
+   },
+   {
+      "name": "Ghana",
+      "area": "All",
+      "factor": 55.9
+   },
+   {
+      "name": "South Africa",
+      "area": "Everywhere else",
+      "factor": 41.1
+   },
+   {
+      "name": "South Africa",
+      "area": "Cape Town",
+      "factor": 45.5
+   },
+   {
+      "name": "Nigeria",
+      "area": "All",
+      "factor": 47.4
+   },
+   {
+      "name": "Kazakhstan",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Uzbekistan",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "China",
+      "area": "All",
+      "factor": 35
+   },
+   {
+      "name": "Hong Kong",
+      "area": "All",
+      "factor": 75.9
+   },
+   {
+      "name": "South Korea",
+      "area": "Seoul",
+      "factor": 50
+   },
+   {
+      "name": "South Korea",
+      "area": "Everywhere else",
+      "factor": 48.6
+   },
+   {
+      "name": "Japan",
+      "area": "All",
+      "factor": 56.3
+   },
+   {
+      "name": "Mongolia",
+      "area": "All",
+      "factor": 42.6
+   },
+   {
+      "name": "Taiwan",
+      "area": "All",
+      "factor": 42.6
+   },
+   {
+      "name": "Brunei Darussalam",
+      "area": "All",
+      "factor": 43.3
+   },
+   {
+      "name": "Cambodia",
+      "area": "All",
+      "factor": 42.1
+   },
+   {
+      "name": "Singapore",
+      "area": "All",
+      "factor": 75.1
+   },
+   {
+      "name": "Indonesia",
+      "area": "Everywhere else",
+      "factor": 41.1
+   },
+   {
+      "name": "Indonesia",
+      "area": "Jakarta",
+      "factor": 44.3
+   },
+   {
+      "name": "Malaysia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Philippines",
+      "area": "Makati/Manila",
+      "factor": 48.1
+   },
+   {
+      "name": "Philippines",
+      "area": "Everywhere else",
+      "factor": 41.1
+   },
+   {
+      "name": "Thailand",
+      "area": "Bangkok",
+      "factor": 44.1
+   },
+   {
+      "name": "Thailand",
+      "area": "Everywhere else",
+      "factor": 44
+   },
+   {
+      "name": "Vietnam",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Nepal",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Bangladesh",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Iran",
+      "area": "All",
+      "factor": 42.4
+   },
+   {
+      "name": "Maldives",
+      "area": "All",
+      "factor": 48.3
+   },
+   {
+      "name": "Pakistan",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Sri Lanka",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "India",
+      "area": "Mumbai",
+      "factor": 31.9
+   },
+   {
+      "name": "India",
+      "area": "Everywhere else",
+      "factor": 30.8
+   },
+   {
+      "name": "Armenia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Georgia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Azerbaijan",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Cyprus",
+      "area": "All",
+      "factor": 44
+   },
+   {
+      "name": "Jordan",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Saudi Arabia",
+      "area": "All",
+      "factor": 55
+   },
+   {
+      "name": "Turkey",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Iraq",
+      "area": "All",
+      "factor": 42.2
+   },
+   {
+      "name": "Lebanon",
+      "area": "All",
+      "factor": 52.6
+   },
+   {
+      "name": "Israel",
+      "area": "All",
+      "factor": 63.3
+   },
+   {
+      "name": "Oman",
+      "area": "All",
+      "factor": 51.8
+   },
+   {
+      "name": "Bahrain",
+      "area": "All",
+      "factor": 51.8
+   },
+   {
+      "name": "Qatar",
+      "area": "All",
+      "factor": 60.2
+   },
+   {
+      "name": "United Arab Emirates",
+      "area": "Everywhere else",
+      "factor": 62.1
+   },
+   {
+      "name": "United Arab Emirates",
+      "area": "Dubai",
+      "factor": 70
+   },
+   {
+      "name": "Bulgaria",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Moldova",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Romania",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Russia",
+      "area": "Everywhere else",
+      "factor": 25
+   },
+   {
+      "name": "Russia",
+      "area": "Moscow",
+      "factor": 32
+   },
+   {
+      "name": "Belarus",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Ukraine",
+      "area": "All",
+      "factor": 26.7
+   },
+   {
+      "name": "Slovakia",
+      "area": "All",
+      "factor": 42.1
+   },
+   {
+      "name": "Hungary",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Poland",
+      "area": "All",
+      "factor": 33.3
+   },
+   {
+      "name": "Czech Republic",
+      "area": "Everywhere else",
+      "factor": 37
+   },
+   {
+      "name": "Czech Republic",
+      "area": "Prague",
+      "factor": 40
+   },
+   {
+      "name": "Denmark",
+      "area": "Everywhere else",
+      "factor": 50
+   },
+   {
+      "name": "Denmark",
+      "area": "Copenhagen",
+      "factor": 65
+   },
+   {
+      "name": "Finland",
+      "area": "Everywhere else",
+      "factor": 50
+   },
+   {
+      "name": "Finland",
+      "area": "Helsinki",
+      "factor": 60
+   },
+   {
+      "name": "Iceland",
+      "area": "All",
+      "factor": 61.1
+   },
+   {
+      "name": "Ireland",
+      "area": "Everywhere else",
+      "factor": 51.1
+   },
+   {
+      "name": "Ireland",
+      "area": "Dublin",
+      "factor": 65
+   },
+   {
+      "name": "Norway",
+      "area": "Everywhere else",
+      "factor": 57.1
+   },
+   {
+      "name": "Norway",
+      "area": "Oslo",
+      "factor": 65
+   },
+   {
+      "name": "Sweden",
+      "area": "Stockholm",
+      "factor": 55
+   },
+   {
+      "name": "Sweden",
+      "area": "Everywhere else",
+      "factor": 46.3
+   },
+   {
+      "name": "Latvia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Lithuania",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Estonia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "United Kingdom",
+      "area": "Northern Ireland",
+      "factor": 51.1
+   },
+   {
+      "name": "United Kingdom",
+      "area": "Wales",
+      "factor": 45
+   },
+   {
+      "name": "United Kingdom",
+      "area": "London, England",
+      "factor": 65
+   },
+   {
+      "name": "United Kingdom",
+      "area": "Bristol, England",
+      "factor": 50
+   },
+   {
+      "name": "United Kingdom",
+      "area": "Birmingham, England",
+      "factor": 50
+   },
+   {
+      "name": "United Kingdom",
+      "area": "Leeds, England",
+      "factor": 50
+   },
+   {
+      "name": "United Kingdom",
+      "area": "Manchester/Liverpool, England",
+      "factor": 50
+   },
+   {
+      "name": "United Kingdom",
+      "area": "Everywhere else, England",
+      "factor": 45
+   },
+   {
+      "name": "United Kingdom",
+      "area": "Glasgow / Edinburgh, Scotland",
+      "factor": 50
+   },
+   {
+      "name": "United Kingdom",
+      "area": "Everywhere else, Scotland",
+      "factor": 45
+   },
+   {
+      "name": "Albania",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Bosnia and Herzegovina",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Croatia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Greece",
+      "area": "Everywhere else",
+      "factor": 41.1
+   },
+   {
+      "name": "Greece",
+      "area": "Athens",
+      "factor": 45
+   },
+   {
+      "name": "Italy",
+      "area": "Everywhere else",
+      "factor": 42.4
+   },
+   {
+      "name": "Italy",
+      "area": "Rome",
+      "factor": 52.3
+   },
+   {
+      "name": "Italy",
+      "area": "Milan",
+      "factor": 52.3
+   },
+   {
+      "name": "Italy",
+      "area": "Turin",
+      "factor": 50
+   },
+   {
+      "name": "Italy",
+      "area": "Genoa",
+      "factor": 50
+   },
+   {
+      "name": "Italy",
+      "area": "Bologna/Florence",
+      "factor": 50
+   },
+   {
+      "name": "Malta",
+      "area": "All",
+      "factor": 50.1
+   },
+   {
+      "name": "Montenegro",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Portugal",
+      "area": "Everywhere else",
+      "factor": 40.1
+   },
+   {
+      "name": "Portugal",
+      "area": "Lisbon",
+      "factor": 44.2
+   },
+   {
+      "name": "Serbia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Slovenia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Spain",
+      "area": "Everywhere else",
+      "factor": 41.9
+   },
+   {
+      "name": "Spain",
+      "area": "Palma De Mallorca",
+      "factor": 45.1
+   },
+   {
+      "name": "Spain",
+      "area": "Madrid",
+      "factor": 47.7
+   },
+   {
+      "name": "Spain",
+      "area": "Barcelona",
+      "factor": 48
+   },
+   {
+      "name": "Spain",
+      "area": "Bilbao",
+      "factor": 46
+   },
+   {
+      "name": "Macedonia",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Kosovo",
+      "area": "All",
+      "factor": 41.1
+   },
+   {
+      "name": "Austria",
+      "area": "Everywhere else",
+      "factor": 48.4
+   },
+   {
+      "name": "Austria",
+      "area": "Vienna",
+      "factor": 55
+   },
+   {
+      "name": "Belgium",
+      "area": "Everywhere else",
+      "factor": 49
+   },
+   {
+      "name": "Belgium",
+      "area": "Brussels",
+      "factor": 55
+   },
+   {
+      "name": "France",
+      "area": "Paris",
+      "factor": 60
+   },
+   {
+      "name": "France",
+      "area": "Everywhere else",
+      "factor": 50
+   },
+   {
+      "name": "Germany",
+      "area": "Everywhere else",
+      "factor": 50
+   },
+   {
+      "name": "Germany",
+      "area": "Munich/Nuremberg",
+      "factor": 60
+   },
+   {
+      "name": "Germany",
+      "area": "Ruhrgebiet",
+      "factor": 55.8
+   },
+   {
+      "name": "Germany",
+      "area": "Frankfurt/Stuttgart",
+      "factor": 60
+   },
+   {
+      "name": "Germany",
+      "area": "Cologne/Dusseldorf",
+      "factor": 55.8
+   },
+   {
+      "name": "Germany",
+      "area": "Hamburg/Bremen",
+      "factor": 60
+   },
+   {
+      "name": "Germany",
+      "area": "Berlin/Leipzig",
+      "factor": 60
+   },
+   {
+      "name": "Luxembourg",
+      "area": "All",
+      "factor": 65
+   },
+   {
+      "name": "Netherlands",
+      "area": "Everywhere else",
+      "factor": 46.7
+   },
+   {
+      "name": "Netherlands",
+      "area": "Amsterdam",
+      "factor": 55
+   },
+   {
+      "name": "Switzerland",
+      "area": "Everywhere else",
+      "factor": 85.6
+   },
+   {
+      "name": "Switzerland",
+      "area": "Geneva",
+      "factor": 91.1
+   },
+   {
+      "name": "Switzerland",
+      "area": "Zug/Zurich",
+      "factor": 91.1
+   },
+   {
+      "name": "Australia",
+      "area": "Everywhere else, Western Australia",
+      "factor": 54.2
+   },
+   {
+      "name": "Australia",
+      "area": "Perth, Western Australia",
+      "factor": 55
+   },
+   {
+      "name": "Australia",
+      "area": "Everywhere else, Queensland",
+      "factor": 55
+   },
+   {
+      "name": "Australia",
+      "area": "Brisbane, Queensland",
+      "factor": 60
+   },
+   {
+      "name": "Australia",
+      "area": "Northern Territory",
+      "factor": 55.2
+   },
+   {
+      "name": "Australia",
+      "area": "Everywhere else, South Australia",
+      "factor": 49.7
+   },
+   {
+      "name": "Australia",
+      "area": "Adelaide, South Australia",
+      "factor": 55
+   },
+   {
+      "name": "Australia",
+      "area": "Everywhere else, New South Wales",
+      "factor": 55
+   },
+   {
+      "name": "Australia",
+      "area": "Sydney, New South Wales",
+      "factor": 66.9
+   },
+   {
+      "name": "Australia",
+      "area": "Everywhere else, Victoria",
+      "factor": 55
+   },
+   {
+      "name": "Australia",
+      "area": "Melbourne, Victoria",
+      "factor": 65
+   },
+   {
+      "name": "Australia",
+      "area": "Tasmania",
+      "factor": 50
+   },
+   {
+      "name": "Australia",
+      "area": "Australian Capital Territory",
+      "factor": 55.3
+   },
+   {
+      "name": "New Zealand",
+      "area": "Everywhere else",
+      "factor": 52
+   },
+   {
+      "name": "New Zealand",
+      "area": "Auckland",
+      "factor": 60
+   },
+   {
+      "name": "New Zealand",
+      "area": "Wellington",
+      "factor": 55
+   },
+   {
+      "name": "New Caledonia",
+      "area": "All",
+      "factor": 52.8
+   },
+   {
+      "name": "Andorra",
+      "area": "All",
+      "factor": 45
+   }
+]
