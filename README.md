@@ -1,6 +1,6 @@
 # Salary Management Tool
 ## Introduction
-Intern HR tool that allows :
+HR tool that allows :
 * employees to simulate their salaries based on different factors,
 * managers to edit employees salaries.
 ## Description
