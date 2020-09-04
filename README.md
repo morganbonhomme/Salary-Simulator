@@ -13,7 +13,8 @@ The company needed an internal tool to display this simulator to all employees, 
 ## Live Demo
 
 The live demo is available [here](https://modular-source-287611.nw.r.appspot.com/).
-You can log in with these profiles: 
+**Of course the data has been changed due to confidentiality reasons.**
+You can log in with these profiles
 
 | Level | email                   | password      |
 |-------|-------------------------|---------------|
